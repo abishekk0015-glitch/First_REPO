@@ -1,15 +1,10 @@
-Change Metadata
-JIRA ID/Link	[JIRA-XXXX]
-Change Type	☐ DB Query (DDL/DML) ☐ Production CURL ☐ Config Update
-Operation Type	[DB / CURL / CONFIG]
-Change Date	[YYYY-MM-DD]
-Maker (Change Owner)	[Name]
-Checker (Reviewer)	[Name]
-Change Description
-Summary: [Brief summary of the change]
+| Field | Value                                             |
+|-------|---------------------------------------------------|
+| **JIRA ID/Link** | _https://jira.fkinternal.com/browse/E2EORCH-7943_ |
+| **Change Type** | DB Query (DML)  Config Update                     |
+| **Operation Type** | _UPDATE_                                          |
+| **Change Date** | _2026-01-13_                                      |
+| **Maker (Change Owner)** | _nalajala.vamshi1_                                |
+| **Checker (Reviewer)** | _dayanand_                                        |
 
-Detailed Description:
-[Detailed description of what was changed and why]
-
-Business Justification:
-[Why this change was needed]
+---
